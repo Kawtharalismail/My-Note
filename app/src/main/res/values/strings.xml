@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Note</string>
+    <string name="switch_item">Important</string>
+    <string name="item_title">: العنوان</string>
+    <string name="item_description">: التفاصيل</string>
+    <string name="add_item">أضف للمهام </string>
+    <string name="back">الرجوع</string>
+
+
+
+</resources>

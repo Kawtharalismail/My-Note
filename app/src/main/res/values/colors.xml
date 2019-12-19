@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="lightGrey">#f6f6f5</color>
+    <color name="noteItemBackground">#F7E7EC</color>
+    <color name="onclick_press_color">#EEE58B</color>
+    <color name="menu_background">#F0EFE7</color>
+    <color name="menu_item_background">#FFFFFF</color>
+
+
+
+
+
+</resources>
